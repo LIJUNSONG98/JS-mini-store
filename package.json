@@ -1,5 +1,5 @@
 {
-  "name": "js-event-store",
+  "name": "js-mini-store",
   "version": "1.0.0",
   "description": "An event-based global state management tool for vue, react, mini-program, ect.",
   "main": "src/index.js",
