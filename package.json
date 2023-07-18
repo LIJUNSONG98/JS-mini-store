@@ -7,7 +7,7 @@
     "test-bus": "node ./Test/event-bus-test.js",
     "test-store": "node ./Test/event-store-test.js"
   },
-  "author": "LIJUNSONG98",
+  "author": "lijunsong",
   "license": "MIT",
   "keywords": [
     "state managment",
